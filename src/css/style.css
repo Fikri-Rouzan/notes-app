@@ -46,6 +46,7 @@ h1 {
 
 form {
   background: var(--white);
+  border: 2px solid #e0e0e0;
   padding: 2rem;
   margin-bottom: 2rem;
   border-radius: 12px;
