@@ -18,7 +18,7 @@ class NoteItem extends HTMLElement {
 
   render() {
     this.shadowRoot.innerHTML = `
-        <link rel="stylesheet" href="src/css/style.css" />
+        <link rel="stylesheet" href="src/style.css" />
         <div class="note-card" style="background-color: ${this.getAttribute(
           "color"
         )};">

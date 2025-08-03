@@ -3,7 +3,7 @@ class NoteForm extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
     this.shadowRoot.innerHTML = `
-        <link rel="stylesheet" href="src/css/style.css" />
+        <link rel="stylesheet" href="src/style.css" />
         <form id="noteForm">
           <div class="form-group">
             <label for="noteTitle">Note Title:</label>

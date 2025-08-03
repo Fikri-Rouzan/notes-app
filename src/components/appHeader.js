@@ -3,7 +3,7 @@ class AppHeader extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
     this.shadowRoot.innerHTML = `
-        <link rel="stylesheet" href="src/css/style.css" />
+        <link rel="stylesheet" href="src/style.css" />
         <header>
             <h1>📝 Notes App</h1>
         </header>

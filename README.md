@@ -1,13 +1,13 @@
 # Notes App
 
-## About
+## ℹ️ About
 
-Notes App is a website where users can create and view notes.
+Notes App is a web platform designed to help users easily create, access, and organize their digital notes.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Programming Language: JavaScript.
-- Markup Language: HTML.
-- Stylesheet Language: CSS.
-- Software: Visual Studio Code.
-- Deployment: Netlify.
+- 🌐 Programming Language: JavaScript.
+- 📄 Markup Language: HTML.
+- 🎨 Stylesheet Language: CSS.
+- 💻 Software: Visual Studio Code.
+- 🚀 Deployment: Netlify.
