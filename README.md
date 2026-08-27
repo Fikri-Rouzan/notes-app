@@ -8,12 +8,12 @@ A note-taking web application built using modular custom web components. It prov
 
 ## 🛠️ Tech Stack
 
-| Category                    | Technologies Used |
-| :-------------------------- | :---------------- |
-| 🌐 **Programming Language** | `JavaScript`      |
-| 📄 **Markup Language**      | `HTML`            |
-| 🎨 **Style Sheet Language** | `CSS`             |
-| 🚀 **Deployment**           | `Netlify`         |
+| Category                    | Technology Used |
+| :-------------------------- | :-------------- |
+| 🌐 **Programming Language** | `JavaScript`    |
+| 📄 **Markup Language**      | `HTML`          |
+| 🎨 **Style Sheet Language** | `CSS`           |
+| 🚀 **Deployment**           | `Netlify`       |
 
 ---
 
